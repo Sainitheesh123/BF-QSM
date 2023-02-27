@@ -1,7 +1,7 @@
 # BF-QSM
-This is a Sequence pipeline which takes Dicom files as input and converts those into NIFTI files involving the below steps.
+##This is a Sequence pipeline which takes Dicom files as input and converts those into NIFTI files involving the below steps.
 
-**It includes use of Packages like pydicom,nibabel, medpy.filter.smoothing
+###It includes use of Packages like pydicom,nibabel, medpy.filter.smoothing
 
 Steps :-
 
